@@ -4,5 +4,6 @@ int main(){
     double num =3.1415926;
     printf("numero completo: %f\n", num);
     printf("numero com 2 casas: %.2f\n", num);
+    
     return 0;
 }
