@@ -4,7 +4,7 @@ int main(){
 
     printf("Digite Seu sexo usando 'M' OU 'F':");
     scanf("%c", &sexo);
-    While(getchar()!='\n');
+    while(getchar()!='\n');
 
     int idade;
     
